@@ -1,0 +1,46 @@
+Instructor_id,Instructor_name,Join_date,Email,Country,Active_status
+INST001,Emma Anderson,02-09-2020,emma.anderson@gmail.com,USA,Active
+INST002,ayaan walker,20-Mar-19,ayaan.walker@yahoo.com,USA,Inactive
+INST003,Zara Iyer,01-10-2021,zara.iyer@teachwell.com,India,Active
+INST004, Michael Smith ,31-10-2023,michael.smith@edumaster.org,USA,Active
+INST005,Sophia,12-03-2023,sophia.chatterjee@yahoo.com,India,Active
+INST006,oliver patel,06-Feb-21,oliver.patel@yahoo.com,India,Inactive
+INST007, Rahul Gupta ,23-04-2022,rahul.gupta@gmail.com,India,Active
+INST008,ARJUN IYER,11-06-2023,arjun.iyer@yahoo.com,India,Inactive
+INST009,Ishaan M. Smith,07-23-2022,ishaan.smith@teachwell.com,USA,Active
+INST010,JOHN TAYLOR,22-01-2021,john.taylor@gmail.com,Australia,Active
+INST011,David,20-02-2023,david.clark@skillhub.net,USA,Active
+INST012,Harry Chatterjee,24-12-2024,harry.chatterjee@gmail.com,India,Active
+INST013,Randeep singh,01-07-2022,randeep.singh@outlook.com,India,Active
+INST014,Krish M. Iyer,17-08-2020,krish.iyer@gmail.com,India,On Hold
+INST015,Emily Anderson,25-07-2019,emily.anderson@edumaster.org,UK,Active
+INST016,Liam Anderson,06-08-2024,liam.anderson@edumaster.org,UK,Active
+INST017, Aarav Lewis ,02-12-2022,aarav.lewis@outlook.com,Singapore,Active
+INST018,Andrew Walker,19-08-2021,andrew.walker@gmail.com,USA,Inactive
+INST019,Sarah Chatterjee,13-09-2023,sarah.chatterjee@gmail.com,India,Active
+INST020,freya smith,10-01-2025,freya.smith@yahoo.com,USA,Active
+INST021,Ava Clark,03-27-2023,ava.clark@teachwell.com,USA,Active
+INST022, Isla Reddy ,"Feb 11, 2019",isla.reddy@gmail.com,India,Active
+INST023,Polin Clark,17-09-2021,polin.clark@yahoo.com,USA,Inactive
+INST024,Tara Nair,24-07-2020,tara.nair@gmail.com,India,Inactive
+INST025,Noah Clark,"Apr 07, 2021",noah.clark@teachwell.com,USA,Active
+INST026,Grace,08-02-2020,grace.reddy@teachwell.com,India,Active
+INST027,George Chatterjee,06-10-2022,george.chatterjee@outlook.com,India,On Hold
+INST028,Nikita Taylor,11-03-2021,nikita.taylor@gmail.com,Canada,On Hold
+INST029,Amelia M. Lewis,26-Jul-23,amelia.lewis@gmail.com,Canada,Active
+INST030,Riya M. Walker,12-Aug-19,riya.walker@teachwell.com,USA,Inactive
+INST031,Rudra Walker,06-11-2024,rudra.walker@skillhub.net,UK,Active
+INST032,Daniel Anderson,30-06-2023,daniel.anderson@gmail.com,UK,Active
+INST033,Ethan M. Sharma,20-09-2022,ethan.sharma@gmail.com,India,Inactive
+INST034,Dev M. Reddy,11-09-2022,dev.reddy@gmail.com,India,Inactive
+INST035,jack johnson,02-10-2020,jack.johnson@outlook.com,UK,Active
+INST036,Sanya Roberts,23-04-2019,sanya.roberts@gmail.com,UK,Active
+INST037,Meera Reddy,29-12-2020,meera.reddy@teachwell.com,India,Active
+INST038,Kabir Brown,12-14-2020,kabir.brown@teachwell.com,UK,On Hold
+INST039,Diya Johnson,12-23-2021,diya.johnson@outlook.com,Canada,Active
+INST040,lucas reddy,12-07-2021,lucas.reddy@gmail.com,India,Active
+INST041,VIVAAN LEWIS,05-Jul-23,vivaan.lewis@edumaster.org,USA,Active
+INST042, Ananya Brown ,20-10-2024,ananya.brown@yahoo.com,USA,Active
+INST043,Vihaan Lewis,04-18-2022,vihaan.lewis@outlook.com,Canada,Active
+INST044,Mia Anderson,03-05-2022,mia.anderson@gmail.com,Australia,Active
+INST045,Olivia Walker,04-04-2024,olivia.walker@edumaster.org,USA,Active

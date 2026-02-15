@@ -1,0 +1,23 @@
+category_id,category_name,parent_category_id
+CAT001,Programming & Development,
+CAT002,Web Development,CAT001
+CAT003,Mobile App Development,CAT001
+CAT004,Data Science & Analytics,CAT001
+CAT005,Database Management,CAT001
+CAT006,Business & Management,
+CAT007,Marketing & Sales,CAT006
+CAT008,Project Management,CAT006
+CAT009,Entrepreneurship,CAT006
+CAT010,Design & Creative,
+CAT011,Graphic Design,CAT010
+CAT012,UI/UX Design,CAT010
+CAT013,Video Production,CAT010
+CAT014,Personal Development,
+CAT015,Communication Skills,CAT014
+CAT016,Leadership & Management,CAT014
+CAT017,Productivity & Time Management,CAT014
+CAT018,Language Learning,
+CAT019,English Language,CAT018
+CAT020,Finance & Accounting,
+CAT021,Financial Analysis,CAT020
+CAT022,Accounting Fundamentals,CAT020
