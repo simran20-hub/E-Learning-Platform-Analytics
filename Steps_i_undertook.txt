@@ -1,1 +1,3 @@
-1. Database created named "eLearning_platform"
+1. Database created named "ELearning_platform"
+
+2. created tables and their relations&constraints
