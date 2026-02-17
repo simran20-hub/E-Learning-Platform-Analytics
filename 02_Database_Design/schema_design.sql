@@ -6,7 +6,7 @@ CREATE TABLE student_table (
     student_id VARCHAR(10) PRIMARY KEY,
     student_name VARCHAR(75) NOT NULL,
     age INT NOT NULL,
-    gender VARCHAR(10),
+    gender ENUM('Male', 'Female', 'Other'),
     contact VARCHAR(15) NOT NULL UNIQUE,
     email_id VARCHAR(50) NOT NULL UNIQUE,
     state VARCHAR(50),

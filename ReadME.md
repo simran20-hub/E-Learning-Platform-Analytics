@@ -26,11 +26,17 @@ Progress:
 - [x] North star metric and KPI categorisation
 - [x] Identification of Data Entities
 - [x] Synthetic Data creation
-- [ ] Database Schema Designing
-- [ ] Table creation and Data insertion
+- [x] Database Schema Designing
+- [x] Table creation and Data insertion
 - [ ] Cleaning and Transformation
 - [ ] SQl Analysis (KPI Engineering)
 - [ ] Insight generation
 - [ ] BI visualization
 - [ ] Documentation
 - [ ] Business Recommendation
+
+Steps to use this Project:
+1. Download the project folder
+2. open schema_design.sql in sql workbench and execute
+3. open pipeline.py. put your databse username, password and database name in .env file and execute python file
+4. data is inserted in database, now move ahead with your analysis

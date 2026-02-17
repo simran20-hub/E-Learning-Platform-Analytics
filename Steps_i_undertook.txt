@@ -1,3 +1,14 @@
 1. Database created named "ELearning_platform"
 
 2. created tables and their relations&constraints
+
+3. using pandas to convert csv into insertion-ready csv 
+
+3.1. check columns names
+3.2. check column order
+3.3. check datatypes
+3.4. check null and default values
+3.5. check if foriegn key values exist in parent table 
+3.6. map variations in values of ENUM datatype
+3.7. insert parent tables first then child table; dimension table first then fact table
+3.8. check max length of characters in csv to match with varchar()

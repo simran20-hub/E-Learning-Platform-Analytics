@@ -6,19 +6,19 @@ C0004,Modern JavaScript Fundamentals,INST038,CAT002,2799,05/05/2023,inactive
 C0005,Complete Web Development Bootcamp,INST006,CAT002,1037,2023-03-08,Active
 C0006,advanced web development workshop,INST001,CAT002,3499,2024-04-22,Active
 C0007,MODERN JAVASCRIPT FUNDAMENTALS,INST027,CAT002,1891,07/11/2024,inactive
-c0008,Web Development for Beginners,INST042,CAT002,3699,05/02/2022,Active
+C0008,Web Development for Beginners,INST042,CAT002,3699,05/02/2022,Active
 C0009,react js - the complete guide,INST022,CAT002,2499,2022-01-11,Inactive
 C0010,Advanced Web Development Workshop,INST040,CAT002,1093,12-21-2022,active
-C0011,Full Stack Web Development,Inst017,CAT002,2499,14-Mar-2024,Active
+C0011,Full Stack Web Development,INST017,CAT002,2499,14-Mar-2024,Active
 C0012,React JS - The Complete Guide,INST035,CAT002,3199,09-Jul-2024,inactive
 C0013,Complete Web Development Bootcamp,INST008,CAT002,2699,2024-01-08,Inactive
 C0014,FULL STACK WEB DEVELOPMENT,INST013,CAT002,2099,2022-09-10,Inactive
-C15,iOS App Development with Swift,INST033,CAT003,1199,30/01/2022,Inactive
+C0015,iOS App Development with Swift,INST033,CAT003,1199,30/01/2022,Inactive
 C0016,Kotlin for Android Developers,INST007,CAT003,3666,07-08-2023,Active
 C0017,Flutter Complete Course,INST030,CAT003,999,27/08/2022,active
 C0018,iOS App Development with Swift,INST002,CAT003,3173,2024-01-23,Active
 C0019,Swift Programming Fundamentals,INST001,CAT003,1499,04-May-2022,Active
-C0020,React Native - Build Mobile Apps,inst026,CAT003,2400,2023-08-16,Active
+C0020,React Native - Build Mobile Apps,INST026,CAT003,2400,2023-08-16,Active
 C0021,cross-platform app development,INST013,CAT003,2807,11/07/2024,Active
 C0022,Flutter Complete Course,INST014,CAT003,2599,2024-08-26,INACTIVE
 C0023,Swift Programming Fundamentals,INST032,CAT003,2284,06-Jul-2024,Removed
@@ -28,7 +28,7 @@ C0026,Statistics for Data Science,INST029,CAT004,3199,2023-05-12,Active
 C0027, Advanced Machine Learning ,INST027,CAT004,3507,2022-06-12,Active
 C0028,SQL for Data Analytics,INST040,CAT004,3911,06-May-2023,Active
 C0029,Big Data Analytics Course,INST038,CAT004,1899,06/05/2022,Removed
-C0030,PYTHON FOR DATA SCIENCE,inst026,CAT004,1099,2024-05-24,Active
+C0030,PYTHON FOR DATA SCIENCE,INST026,CAT004,1099,2024-05-24,Active
 C0031,Data Analysis with Python & Pandas,INST023,CAT004,2199,2024-12-28,active
 C0032,machine learning a-z,INST036,CAT004,2915,07/10/2023,Active
 C0033,Data Analysis with Python & Pandas,INST021,CAT004,2999,2023-01-04,Active
@@ -36,57 +36,57 @@ C0034,Deep Learning Specialization,INST013,CAT004,3199,2024-06-30,Active
 C0035,Big Data Analytics Course,INST010,CAT004,3899,05/10/2024,active
 C0036,Machine Learning A-Z,INST029,CAT004,1611,2022-08-16,ACTIVE
 C0037,sql for data analytics,INST012,CAT004,2999,2024-08-28,active
-C0038,MongoDB Complete Guide,Inst017,CAT005,3271,2024-09-16,Active
+C0038,MongoDB Complete Guide,INST017,CAT005,3271,2024-09-16,Active
 C0039,Database Design & Optimization,INST027,CAT005,899,04-May-2022,Active
 C0040,DATABASE DESIGN & OPTIMIZATION,INST042,CAT005,1999,09-06-2023,active
 C0041,Oracle Database 12c Training,INST033,CAT005,1174,2024-05-06,ACTIVE
 C0042,MongoDB Complete Guide,INST019,CAT005,2799,2024-11-10,ACTIVE
 C0043,Oracle Database 12c Training,INST018,CAT005,1077,2023-06-25,active
-C44,MongoDB Complete Guide,INST040,CAT005,1499,2022-01-15,Active
+C0044,MongoDB Complete Guide,INST040,CAT005,1499,2022-01-15,Active
 C0045,NoSQL Database Essentials,INST016,CAT005,1699,17/01/2022,Active
 C0046,Facebook Ads Mastery,INST041,CAT007,799,01-02-2025,Inactive
 C0047,Digital Marketing Masterclass,INST042,CAT007,3299,2023-08-26,Active
 C0048,Facebook Ads Mastery,INST001,CAT007,3499,2022-11-11,Inactive
 C0049,Content Marketing Excellence,INST035,CAT007,1254,26-Sep-2022,Removed
-c0050,sales funnel optimization,inst043,CAT007,1399,08/08/2024,active
-C0051,Social Media Marketing Strategy,inst026,CAT007,3899,2023-11-13,ACTIVE
-c0052,Digital Marketing Masterclass,INST002,CAT007,2099,16/08/2022,Removed
-C0053,marketing analytics & metrics,inst044,CAT007,2799,23/04/2024,Active
+C0050,sales funnel optimization,INST043,CAT007,1399,08/08/2024,active
+C0051,Social Media Marketing Strategy,INST026,CAT007,3899,2023-11-13,ACTIVE
+C0052,Digital Marketing Masterclass,INST002,CAT007,2099,16/08/2022,Removed
+C0053,marketing analytics & metrics,INST044,CAT007,2799,23/04/2024,Active
 C0054,Marketing Analytics & Metrics,INST012,CAT007,3199,12-26-2023,removed
-c0055,Facebook Ads Mastery,INST037,CAT007,699,02/08/2022,Inactive
+C0055,Facebook Ads Mastery,INST037,CAT007,699,02/08/2022,Inactive
 C0056,B2B Sales Strategy,INST004,CAT007,3604,2022-11-23,Inactive
-C0057,Risk Management in Projects,inst026,CAT008,999,10/06/2024,Inactive
+C0057,Risk Management in Projects,INST026,CAT008,999,10/06/2024,Inactive
 C0058,KANBAN ESSENTIALS,INST023,CAT008,1699,2023-08-10,Inactive
-C0059,Stakeholder Management Workshop,inst026,CAT008,3199,01-Dec-2023,inactive
+C0059,Stakeholder Management Workshop,INST026,CAT008,3199,01-Dec-2023,inactive
 C0060,Project Management Fundamentals,INST015,CAT008,2599,26/11/2024,Active
 C0061,prince2 foundation training,INST036,CAT008,2599,2024-08-14,active
 C0062,PRINCE2 Foundation Training,INST029,CAT008,3999,23/12/2022,Inactive
 C0063,Lean Project Management,INST007,CAT008,2499,2023-03-24,Active
-C0064,Kanban Essentials,inst044,CAT008,1999,2024-05-04,Active
+C0064,Kanban Essentials,INST044,CAT008,1999,2024-05-04,Active
 C0065,Stakeholder Management Workshop,INST030,CAT008,3012,11-29-2024,Active
 C0066,Growth Hacking Strategies,INST009,CAT009,3918,2024-07-12,Removed
 C0067,Growth Hacking Strategies,INST003,CAT009,2099,04-15-2023,Inactive
 C0068,Building a Scalable Business,INST040,CAT009,2499,20/08/2024,Active
 C0069,Business Model Canvas Workshop,INST002,CAT009,3033,2022-08-14,Active
 C0070,Growth Hacking Strategies,INST045,CAT009,1599,04-May-2024,Inactive
-C0071,Funding & Fundraising for Startups,Inst020,CAT009,1799,28/10/2022,Removed
+C0071,Funding & Fundraising for Startups,INST020,CAT009,1799,28/10/2022,Removed
 C0072,Lean Startup Methodology,INST003,CAT009,399,2024-08-02,active
 C0073,Business Model Canvas Workshop,INST027,CAT009,3377,2023-05-02,INACTIVE
 C0074,Funding & Fundraising for Startups,INST005,CAT009,610,14-Apr-2023,Inactive
 C0075,Illustrator CC Masterclass,INST011,CAT011,3899,2022-12-06,Removed
 C0076, Typography Essentials ,INST027,CAT011,1999,27/02/2024,Active
 C0077, Illustrator CC Masterclass ,INST022,CAT011,1799,2024-03-28,Active
-C0078, Logo Design Fundamentals ,Inst017,CAT011,1099,2023-08-13,Active
-c0079,Brand Identity Design,INST037,CAT011,599,07-Oct-2022,Inactive
+C0078, Logo Design Fundamentals ,INST017,CAT011,1099,2023-08-13,Active
+C0079,Brand Identity Design,INST037,CAT011,599,07-Oct-2022,Inactive
 C0080,Graphic Design Theory & Practice,INST033,CAT011,1699,2025-02-02,Active
-C0081,Print Design Workshop,inst043,CAT011,2799,16-Apr-2022,Active
+C0081,Print Design Workshop,INST043,CAT011,2799,16-Apr-2022,Active
 C0082,Graphic Design Theory & Practice,INST022,CAT011,1999,2024-12-30,Active
 C0083,Adobe Photoshop Complete Course,INST023,CAT011,1596,22/11/2022,inactive
 C0084, Design Thinking Workshop ,INST004,CAT012,998,2023-12-24,Active
 C0085,User Research & Testing,INST023,CAT012,3301,19-Apr-2023,Removed
 C0086,Design Thinking Workshop,INST022,CAT012,3199,2022-11-15,active
-C0087,responsive web design,inst024,CAT012,2599,10-Dec-2023,Inactive
-c0088, UI/UX Design Bootcamp ,INST028,CAT012,3675,12-01-2023,Active
+C0087,responsive web design,INST024,CAT012,2599,10-Dec-2023,Inactive
+C0088, UI/UX Design Bootcamp ,INST028,CAT012,3675,12-01-2023,Active
 C0089,Responsive Web Design,INST025,CAT012,2299,2024-08-08,Active
 C0090,Interaction Design Principles,INST008,CAT012,1799,2022-03-09,Active
 C0091,UI/UX Design Bootcamp,INST027,CAT012,1099,08-19-2024,Inactive
@@ -94,26 +94,26 @@ C0092,Adobe XD Essentials,INST045,CAT012,3399,12/07/2023,Active
 C0093,UI/UX Design Bootcamp,INST002,CAT012,999,04/05/2022,Active
 C0094, Design Thinking Workshop ,INST032,CAT012,2199,09-27-2023,ACTIVE
 C0095,AFTER EFFECTS ANIMATION,INST038,CAT013,2397,2023-09-27,Removed
-C0096,Color Grading & Correction,inst044,CAT013,799,2023-02-12,Active
+C0096,Color Grading & Correction,INST044,CAT013,799,2023-02-12,Active
 C0097,Color Grading & Correction,INST032,CAT013,1739,2023-09-10,Inactive
 C0098,Final Cut Pro X Masterclass,INST040,CAT013,3719,2022-06-02,Removed
 C0099,Final Cut Pro X Masterclass,INST030,CAT013,1199,09/02/2025,Active
 C0100,After Effects Animation,INST016,CAT013,813,2022-07-22,Inactive
-C0101,AFTER EFFECTS ANIMATION,inst044,CAT013,3799,2024-10-27,Active
-C102,Video Marketing Strategy,INST022,CAT013,3204,08/05/2024,Active
+C0101,AFTER EFFECTS ANIMATION,INST044,CAT013,3799,2024-10-27,Active
+C0102,Video Marketing Strategy,INST022,CAT013,3204,08/05/2024,Active
 C0103,CINEMATOGRAPHY FUNDAMENTALS,INST029,CAT013,1299,2022-05-28,removed
 C0104,effective presentation skills,INST010,CAT015,1599,2024-01-18,inactive
 C0105,Interpersonal Communication,INST034,CAT015,599,10/06/2023,Inactive
 C0106,Interpersonal Communication,INST030,CAT015,3399,2023-03-26,INACTIVE
-C0107,Professional Writing Workshop,Inst020,CAT015,1352,22/04/2024,active
+C0107,Professional Writing Workshop,INST020,CAT015,1352,22/04/2024,active
 C0108, Professional Writing Workshop ,INST045,CAT015,3347,16/03/2022,Active
 C0109,Interpersonal Communication,INST014,CAT015,1499,2024-04-18,ACTIVE
 C0110,Professional Writing Workshop,INST009,CAT015,1499,2024-02-28,Active
-c0111,Conflict Resolution Skills,INST034,CAT015,599,09-Jul-2022,Inactive
+C0111,Conflict Resolution Skills,INST034,CAT015,599,09-Jul-2022,Inactive
 C0112,Effective Presentation Skills,INST023,CAT015,2999,2024-12-21,Active
-c0113,PUBLIC SPEAKING MASTERY,INST029,CAT015,3899,2024-05-03,Inactive
-C0114,Decision Making Skills,Inst020,CAT016,1942,2024-11-06,Active
-C0115,Change Management Essentials,inst024,CAT016,1061,2022-04-21,Removed
+C0113,PUBLIC SPEAKING MASTERY,INST029,CAT015,3899,2024-05-03,Inactive
+C0114,Decision Making Skills,INST020,CAT016,1942,2024-11-06,Active
+C0115,Change Management Essentials,INST024,CAT016,1061,2022-04-21,Removed
 C0116,leadership development program,INST011,CAT016,3799,20/11/2022,inactive
 C0117,team building & motivation,INST007,CAT016,1348,2024-02-16,Active
 C0118,COACHING & MENTORING SKILLS,INST045,CAT016,1099,05-Jul-2022,Active
@@ -125,7 +125,7 @@ C0123,Decision Making Skills,INST035,CAT016,1799,04-18-2024,Inactive
 C0124,Stress Management Techniques,INST028,CAT017,2799,26/05/2023,ACTIVE
 C0125,Focus & Deep Work Strategies,INST028,CAT017,2456,2022-10-06,Active
 C0126,habit formation & breaking,INST003,CAT017,3546,2025-01-22,Active
-C127,Getting Things Done (GTD),INST014,CAT017,599,2023-06-18,Active
+C0127,Getting Things Done (GTD),INST014,CAT017,599,2023-06-18,Active
 C0128,Productivity Hacks & Tools,INST008,CAT017,3399,29-Jan-2025,Active
 C0129,focus & deep work strategies,INST036,CAT017,2699,11-10-2023,Active
 C0130,getting things done (gtd),INST038,CAT017,499,2023-05-02,INACTIVE
@@ -138,8 +138,8 @@ C0136,English Writing Skills,INST016,CAT019,2515,2022-01-05,Active
 C0137,IELTS Preparation Bootcamp,INST019,CAT019,2399,29-Jun-2023,Inactive
 C0138,english writing skills,INST041,CAT019,499,05-18-2022,active
 C0139,English Grammar Complete Course,INST021,CAT019,1499,09/12/2024,active
-C140,English Writing Skills,INST030,CAT019,2399,2022-12-06,inactive
-c0141,English Grammar Complete Course,inst044,CAT019,1199,29/06/2024,Active
+C0140,English Writing Skills,INST030,CAT019,2399,2022-12-06,inactive
+C0141,English Grammar Complete Course,INST044,CAT019,1199,29/06/2024,Active
 C0142,Advanced English Vocabulary,INST035,CAT019,1399,27/04/2024,ACTIVE
 C0143,Financial Modeling & Valuation,INST014,CAT021,3450,2024-03-06,Active
 C0144, Equity Research Training ,INST004,CAT021,3699,2024-02-12,active
@@ -154,8 +154,8 @@ C0152,QuickBooks Complete Training,INST011,CAT022,2899,2023-11-29,Inactive
 C0153,Accounting Principles & Basics,INST038,CAT022,1899,04-19-2022,Inactive
 C0154,Tax Preparation Course,INST009,CAT022,2168,09/01/2024,ACTIVE
 C0155,QuickBooks Complete Training,INST033,CAT022,2588,2022-09-04,Removed
-c0156,Bookkeeping Essentials,INST025,CAT022,2199,2022-08-27,Active
-c0157,Managerial Accounting,INST034,CAT022,3899,10-17-2024,active
-C0158,Accounting for Small Business,Inst017,CAT022,1899,2024-01-06,active
+C0156,Bookkeeping Essentials,INST025,CAT022,2199,2022-08-27,Active
+C0157,Managerial Accounting,INST034,CAT022,3899,10-17-2024,active
+C0158,Accounting for Small Business,INST017,CAT022,1899,2024-01-06,active
 C0159,Financial Accounting Basics,INST037,CAT022,2399,10/06/2024,Active
-c0160,QuickBooks Complete Training,INST015,CAT022,1799,2022-10-16,Active
+C0160,QuickBooks Complete Training,INST015,CAT022,1799,2022-10-16,Active
