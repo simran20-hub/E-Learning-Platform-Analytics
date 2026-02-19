@@ -1,0 +1,16 @@
+1. Validating No. of rows in csv and database tables
+- payments_table in database has 5565 rows while csv file has 5600. A total of 35 rows missing/not inserted in database
+
+2. 1184 entires where payment timestamp is less than enrollment timestamp. denoting 1184 times payment was done before enrollment which is systematically not possible
+
+Issue 1: 35 missing payment entries
+This is the NaN status rows you dropped during cleaning. 
+Document this as known data loss. No action needed now, but note it in your analysis
+that payment data represents ~97.5% coverage.
+
+Issue 2:  Since this is synthetic data, If the time difference is small (seconds/minutes),
+assume payment happened at enrollment and update the payment_timestamp
+UPDATE payment_table p
+JOIN enrollment_table e ON p.enrollment_id = e.enrollment_id
+SET p.payment_date = e.enrollment_timestamp
+WHERE p.payment_date < e.enrollment_timestamp;

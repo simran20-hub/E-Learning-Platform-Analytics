@@ -21,11 +21,10 @@ CREATE INDEX idx_student_signup ON student_table(signup_date);
 
 CREATE TABLE instructor_table (
     instructor_id VARCHAR(10) PRIMARY KEY,
-    
     instructor_name VARCHAR(75) NOT NULL,
     join_date DATE NOT NULL,
     email_id VARCHAR(50) NOT NULL UNIQUE,
-    
+    country VARCHAR(50),
     active_status ENUM('Active', 'Inactive', 'On Hold') NOT NULL
 ) ENGINE=InnoDB;
 
