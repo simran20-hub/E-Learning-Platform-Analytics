@@ -28,7 +28,7 @@ Progress:
 - [x] Synthetic Data creation
 - [x] Database Schema Designing
 - [x] Table creation and Data insertion
-- [ ] Cleaning and Transformation
+- [x] Cleaning and Transformation
 - [ ] SQl Analysis (KPI Engineering)
 - [ ] Insight generation
 - [ ] BI visualization

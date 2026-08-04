@@ -12,3 +12,29 @@
 3.6. map variations in values of ENUM datatype
 3.7. insert parent tables first then child table; dimension table first then fact table
 3.8. check max length of characters in csv to match with varchar()
+
+
+
+While connecting SQL to PowerBI, 
+1. Installed SQL COnnector/NET version 8.0.x
+2. Encountered problem of charater set type name changed and thus connector does not recognise
+3. Changes database's character set
+
+all the above steps did not work. so now switching to ODBC method where we install 
+1. install 9.7.0 64 bit version from https://dev.mysql.com/downloads/connector/odbc/
+2. run installer
+3. Open ODBC Data Source 64 bit from windows search bar
+4. Go to the System DSN tab.
+5. Click Add...
+6. Select MySQL ODBC 9.7 Unicode Driver from the list → Finish.
+7. Fill in the connection form:
+Data Source Name: anything you'll recognize (e.g. MyMySQLDB)
+TCP/IP Server: your MySQL host/IP
+Port: 3306 (default)
+User: your MySQL username
+Password: your MySQL password
+Database: select your target database from the dropdown once connection details are filled
+8. Click Test — you should get "Connection successful."
+9. Click OK to save the DSN.
+
+10. In PowerBI, Get data from "ODBC" and select you database
