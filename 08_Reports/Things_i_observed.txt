@@ -1,0 +1,21 @@
+1. Total revenue dropped massively in 2025
+2. 2025 has 2015 rows
+3. in 2025 only first two month had resigsteration, other months had only few registerations.
+4. in 2025 only 6 courses where created while avg courses per year was 50 for previous years
+
+
+5. Discounts were not hurting revenue
+6. Basic Trend that can be observed is that enrollments peak in March to May and July to August and just after the peak they fall
+7. I can be observed that in 2024 september enrollments dropped drastically to 40 and after that the pattern continued til 2025
+8. exact trend can be spotted in enrollments and courses launched, which suggests that the platform did not launch courses itself which 
+became the reason for decline in enrollments
+9. but why did they not launch courses?
+10. Programming and development category showed in major increase and demand and categoring to the need in 2024, 18 courses where 
+launched, however in 2025 no courses
+11. why so?
+
+
+12. every student has conversion rate - time taken from first interation to buying first product
+13. every student also has a Customer LifeSpan or Customer Saturation Point, which influences Customer
+Lifetime value (LTV). can also be termed as Churn Rate or Churn Point.
+14. How to calculate this churn point?

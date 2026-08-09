@@ -38,3 +38,15 @@ Database: select your target database from the dropdown once connection details 
 9. Click OK to save the DSN.
 
 10. In PowerBI, Get data from "ODBC" and select you database
+
+11. while visualizing Im creating DAX measures
+
+12. created a new calculated column that will have no. of enrollments per category id 
+
+********
+13. I want to find the cutsomer lifetime value, so for that we calcuate the rate at which purchases move 
+in sequential stages (this is Empirical Cohort Analysis). we need to find with Cumulative Revenue Curve Method as well
+(use claude to understand exactly how to calculate that)
+
+Problems we are solving:
+1. Revenue significantly dropped in 2025 in first quater
