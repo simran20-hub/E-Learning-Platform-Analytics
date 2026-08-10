@@ -19,3 +19,57 @@ launched, however in 2025 no courses
 13. every student also has a Customer LifeSpan or Customer Saturation Point, which influences Customer
 Lifetime value (LTV). can also be termed as Churn Rate or Churn Point.
 14. How to calculate this churn point?
+
+Customer Acuisition & Retention analysis:
+1. New vs Repeat customer by purchase year
+2. Are we dependent on  existing customers
+(Now you have a much stronger business story:
+
+"The business is becoming increasingly dependent on its existing customer base."
+
+That's much more useful than simply saying "repeat customers increased.")
+3. YoY New Customer Acquisiton Growth
+4. Average actualisation time
+But don't rely only on average. (visualize this as a funnel)
+
+I'd strongly recommend:
+
+Median actualisation time
+Average actualisation time
+% purchasing within 1 day
+% purchasing within 7 days
+% purchasing within 30 days
+% purchasing after 30 days (This tells you:
+
+Marketing may be generating more leads/signups, but the ability to convert those signups into paying customers is deteriorating.
+
+That's a very valuable business insight.)
+
+And the final business questions this page answers
+
+You'd essentially be answering:
+
+Acquisition
+
+Are we bringing in enough new customers every year?
+
+Retention
+
+Are existing students coming back and contributing more?
+
+Dependency
+
+Is revenue/customer activity becoming overly dependent on our existing base?
+
+Conversion
+
+How many signups actually become paying customers?
+
+Speed
+
+How quickly do new signups become customers?
+
+Trend
+
+Is customer acquisition getting stronger or weaker over time?
+--------------------------------------------------------
