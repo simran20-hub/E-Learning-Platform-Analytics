@@ -10,7 +10,7 @@ The project focuses to monitor platform performance across:
 to gain useful insights and support data-driven decisions
 
 ## Project Status:
-In development
+In Progress
 
 ## Project Structure
 
@@ -29,9 +29,9 @@ Progress:
 - [x] Database Schema Designing
 - [x] Table creation and Data insertion
 - [x] Cleaning and Transformation
-- [ ] SQl Analysis (KPI Engineering)
-- [ ] Insight generation
-- [ ] BI visualization
+- [x] SQl Analysis (KPI Engineering)
+- [x] Insight generation
+- [x] BI visualization
 - [ ] Documentation
 - [ ] Business Recommendation
 
